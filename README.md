@@ -1,3 +1,2 @@
 # test
-this is a test commit
-haha
+this is the second commit from master
